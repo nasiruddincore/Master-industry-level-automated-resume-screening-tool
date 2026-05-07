@@ -1,0 +1,8 @@
+
+Python Developer required with:
+- Python
+- SQL
+- Machine Learning
+- FastAPI
+- Pandas
+- Data Analysis
